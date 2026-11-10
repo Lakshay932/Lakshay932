@@ -1,0 +1,90 @@
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lakshay+%F0%9F%91%8B;AI%2FML+%2B+Full-Stack+Developer;CS+Undergrad+%40+Thapar+Institute;Building+with+Python%2C+LLMs+and+the+Web" alt="Typing intro" />
+
+<img src="https://komarev.com/ghpvc/?username=Lakshay932&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Lakshay932?label=Followers&style=flat&color=58a6ff" alt="Followers" />
+
+</div>
+
+## About me
+
+- 🎓 B.Tech Computer Science, **Thapar Institute of Engineering and Technology**
+- 💼 Former Software Development Intern at **Wipro**, where I built an Employee Engagement Platform with sentiment analysis
+- 🤖 Interested in **NLP, transformers, RAG pipelines** and shipping them inside full-stack products
+- 🧩 Practising **DSA in C++**
+- 🎬 Head of Videography, Backslash Computing Society
+
+## Connect with me
+
+<!-- TODO: replace YOUR-LINKEDIN-ID and YOUR-LEETCODE-ID, and add your email in the mailto link -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/YOUR-LEETCODE-ID"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+## Tech stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css,bash" alt="Languages" />
+
+**AI / Data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda" alt="AI and data tools" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+
+**Web and tools**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,vercel,git,github,linux,vscode" alt="Web and tools" />
+
+## Featured projects
+
+<a href="https://github.com/Lakshay932/Astitva"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Astitva&theme=github_dark&hide_border=true" alt="Astitva" /></a>
+<a href="https://github.com/Lakshay932/wipro-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=wipro-dashboard&theme=github_dark&hide_border=true" alt="wipro-dashboard" /></a>
+<a href="https://github.com/Lakshay932/Geometric_ques_pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Geometric_ques_pipeline&theme=github_dark&hide_border=true" alt="Geometric_ques_pipeline" /></a>
+<a href="https://github.com/Lakshay932/Karigar_connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Karigar_connect&theme=github_dark&hide_border=true" alt="Karigar_connect" /></a>
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Astitva](https://github.com/Lakshay932/Astitva) | Responsible-AI access gate built on the NamoID identity platform ([live demo](https://astitva-gray.vercel.app)) | Python, TypeScript, Docker |
+| [wipro-dashboard](https://github.com/Lakshay932/wipro-dashboard) | Employee engagement dashboard from my Wipro internship | JavaScript |
+| [Geometric_ques_pipeline](https://github.com/Lakshay932/Geometric_ques_pipeline) | Python pipeline for geometry question data | Python |
+| [Karigar_connect](https://github.com/Lakshay932/Karigar_connect) | Web platform connecting local artisans with customers <!-- TODO: confirm --> | HTML, CSS, JavaScript |
+
+## Currently
+
+- 🔭 Building an AI-powered QA agent and a peer-to-peer stock research platform (InvestCircle)
+- 🌱 Learning: <!-- TODO: add what you're learning -->
+- 🏆 Hackathons: <!-- TODO: add hackathons and results you want to show -->
+
+## GitHub metrics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshay932&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay932&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+
+<img src="https://streak-stats.demolab.com?user=Lakshay932&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
+
+</div>
+
+### Contributions calendar
+
+<div align="center">
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contributions calendar" />
+</div>
+
+### Coding habits and recent activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshay932&theme=github_dark&utcOffset=5.5" alt="Commit activity per time of the day" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay932&theme=github_dark" alt="Language activity" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshay932&theme=github_dark" alt="Profile details" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay932&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+
+</div>
