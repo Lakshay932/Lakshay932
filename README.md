@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lakshay+%F0%9F%91%8B;AI%2FML+%2B+Full-Stack+Developer;CS+Undergrad+%40+Thapar+Institute;Building+with+Python%2C+LLMs+and+the+Web" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lakshay;AI%2FML+%2B+Full-Stack+Developer;CS+Undergrad+%40+Thapar+Institute;Building+with+Python%2C+LLMs+and+the+Web" alt="Typing intro" />
 
 <img src="https://komarev.com/ghpvc/?username=Lakshay932&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Lakshay932?label=Followers&style=flat&color=58a6ff" alt="Followers" />
@@ -9,11 +9,11 @@
 
 ## About me
 
-- 🎓 B.Tech Computer Science, **Thapar Institute of Engineering and Technology**
-- 💼 Former Software Development Intern at **Wipro**, where I built an Employee Engagement Platform with sentiment analysis
-- 🤖 Interested in **NLP, transformers, RAG pipelines** and shipping them inside full-stack products
-- 🧩 Practising **DSA in C++**
-- 🎬 Head of Videography, Backslash Computing Society
+- B.Tech Computer Science, **Thapar Institute of Engineering and Technology**
+- Former Software Development Intern at **Wipro**, where I built an Employee Engagement Platform with sentiment analysis
+- Interested in **NLP, transformers, RAG pipelines** and shipping them inside full-stack products
+- Practising **DSA in C++**
+- Head of Videography, Backslash Computing Society
 
 ## Connect with me
 
@@ -50,9 +50,9 @@
 
 ## Currently
 
-- 🔭 Building an AI-powered QA agent and a peer-to-peer stock research platform (InvestCircle)
-- 🌱 Learning: <!-- TODO: add what you're learning -->
-- 🏆 Hackathons: <!-- TODO: add hackathons and results you want to show -->
+- Building an AI-powered QA agent and a peer-to-peer stock research platform (InvestCircle)
+- Learning: <!-- TODO: add what you're learning -->
+- Hackathons: <!-- TODO: add hackathons and results you want to show -->
 
 ## GitHub metrics
 
