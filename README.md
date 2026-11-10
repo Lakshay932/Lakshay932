@@ -2,9 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Lakshay;AI%2FML+%2B+Full-Stack+Developer;CS+Undergrad+%40+Thapar+Institute;Building+with+Python%2C+LLMs+and+the+Web" alt="Typing intro" />
 
-<img src="https://komarev.com/ghpvc/?username=Lakshay932&label=Profile%20views&color=58a6ff&style=flat" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Lakshay932?label=Followers&style=flat&color=58a6ff" alt="Followers" />
-
 </div>
 
 ## About me
