@@ -41,11 +41,6 @@
 
 ## Featured projects
 
-<a href="https://github.com/Lakshay932/Astitva"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Astitva&theme=github_dark&hide_border=true" alt="Astitva" /></a>
-<a href="https://github.com/Lakshay932/wipro-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=wipro-dashboard&theme=github_dark&hide_border=true" alt="wipro-dashboard" /></a>
-<a href="https://github.com/Lakshay932/Geometric_ques_pipeline"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Geometric_ques_pipeline&theme=github_dark&hide_border=true" alt="Geometric_ques_pipeline" /></a>
-<a href="https://github.com/Lakshay932/Karigar_connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshay932&repo=Karigar_connect&theme=github_dark&hide_border=true" alt="Karigar_connect" /></a>
-
 | Project | What it is | Stack |
 |---|---|---|
 | [Astitva](https://github.com/Lakshay932/Astitva) | Responsible-AI access gate built on the NamoID identity platform ([live demo](https://astitva-gray.vercel.app)) | Python, TypeScript, Docker |
@@ -63,8 +58,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lakshay932&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshay932&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshay932&theme=github_dark" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshay932&theme=github_dark" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Lakshay932&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 
@@ -84,7 +79,5 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay932&theme=github_dark" alt="Language activity" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshay932&theme=github_dark" alt="Profile details" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshay932&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
 
 </div>
