@@ -30,10 +30,7 @@
 
 **AI / Data**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,anaconda" alt="AI and data tools" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,sklearn,pandas,jupyter,huggingface,anaconda" height="48" alt="AI and data tools" />
 
 **Web and tools**
 
@@ -59,8 +56,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshay932&theme=github_dark" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshay932&theme=github_dark" alt="Most used languages" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lakshay932&theme=github_dark" alt="GitHub stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lakshay932&theme=github_dark" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Lakshay932&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 
@@ -76,8 +73,8 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshay932&theme=github_dark&utcOffset=5.5" alt="Commit activity per time of the day" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay932&theme=github_dark" alt="Language activity" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lakshay932&theme=github_dark&utcOffset=5.5" alt="Commit activity per time of the day" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lakshay932&theme=github_dark" alt="Language activity" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lakshay932&theme=github_dark" alt="Profile details" />
 
