@@ -10,7 +10,8 @@
 - Former Software Development Intern at **Wipro**, where I built an Employee Engagement Platform with sentiment analysis
 - Interested in **NLP, transformers, RAG pipelines** and shipping them inside full-stack products
 - Practising **DSA in C++**
-- Head of Videography, Backslash Computing Society
+
+
 
 ## Connect with me
 
